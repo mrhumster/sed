@@ -1,3 +1,3 @@
 # Записки по СЭД
 
-* [./DirectumRX.md](DirectumRX)
+01_DirectumRX.md
