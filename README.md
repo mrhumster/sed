@@ -1,3 +1,3 @@
 # Записки по СЭД
 
-\include{DirectumRX.md}
+#include "DirectumRX.md"
