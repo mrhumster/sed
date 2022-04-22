@@ -1,3 +1,3 @@
 # Записки по СЭД
 
-[include:DirectumRX](./DirectumRX.md)
+[DirectumRX](./DirectumRX.md)
